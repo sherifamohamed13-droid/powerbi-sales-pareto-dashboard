@@ -128,4 +128,4 @@ Power BI Desktop, DAX
 
 ## Author
 
-Sherif Ashraf · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Sherif Ashraf · [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sherif-ashraf-ba4802185/))
