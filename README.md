@@ -10,11 +10,11 @@ A four-page Power BI dashboard that analyzes sales for a fictional bicycle and a
 
 | Overview | Performance & YoY |
 |---|---|
-| ![Overview](images/01-overview.png) | ![Performance and YoY](images/02-performance-yoy.png) |
+| ![Overview](images/01-overview.png.png) | ![Performance and YoY](images/02-performance-yoy.png.png) |
 
 | Products & Pareto | Classes & Outliers |
 |---|---|
-| ![Products and Pareto](images/03-products-pareto.png) | ![Classes and Outliers](images/04-classes-outliers.png) |
+| ![Products and Pareto](images/03-products-pareto.png.png) | ![Classes and Outliers](images/04-classes-outliers.png.png) |
 
 ---
 
